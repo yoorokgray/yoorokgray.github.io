@@ -1,6 +1,10 @@
 body {
 	text-align: center;
 	font-family: Helvetica;
-	font-size: 200px
 	background-image: url("images.jpg");
+	background-size: cover;
+
+}
+hr {
+	width: 200px;
 }
