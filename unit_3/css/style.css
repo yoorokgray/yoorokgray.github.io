@@ -1,10 +1,16 @@
 body {
 	text-align: center;
 	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 16px;
 	background-image: url("images.jpg");
 	background-size: cover;
 
 }
+img{
+	opacity: 0.4;
+	filter: alpha(opacity=40);
+}
 hr {
-	width: 200px;
+	width: 400px;
 }
