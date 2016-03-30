@@ -1,5 +1,6 @@
 body {
 	text-align: center;
 	font-family: Helvetica;
-	background-image: "images/images.jpg"
+	font-size: 200px
+	background-image: url("images.jpg");
 }
